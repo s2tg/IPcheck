@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="TrueFalse" type="Native" />
+      <mapping pattern="Boolean_if" type="PLAIN_TEXT" />
+      <mapping pattern="Boolean if" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
